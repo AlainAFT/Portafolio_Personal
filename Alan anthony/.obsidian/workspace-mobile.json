@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "caff7c80c3aa8c7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "916cb5695cc875cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ebc11a622843be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion《》periodizacion de entrenamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programacion《》periodizacion de entrenamiento"
+            }
+          },
+          {
+            "id": "5f5ef25ec822a8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contrasen̈as.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contrasen̈as"
+            }
+          },
+          {
+            "id": "a67c31b0a5fb6741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contrasen̈as.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contrasen̈as"
+            }
+          },
+          {
+            "id": "44a3211c3b122fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym/Programacion《》periodizacion de entrenamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programacion《》periodizacion de entrenamiento"
+            }
+          },
+          {
+            "id": "857cd9959fac4321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym/Programacion《》periodizacion de entrenamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programacion《》periodizacion de entrenamiento"
+            }
+          },
+          {
+            "id": "e120532fb0c86b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUEÑOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUEÑOS"
+            }
+          },
+          {
+            "id": "02720b3c84a00ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym/Pesos y ejercicios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pesos y ejercicios"
+            }
+          },
+          {
+            "id": "182754f8fb0ddc0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym/Programacion《》periodizacion de entrenamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programacion《》periodizacion de entrenamiento"
+            }
+          },
+          {
+            "id": "932cb3a36253c6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retención palabras no conocidas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Retención palabras no conocidas"
+            }
+          },
+          {
+            "id": "92b8b99a6b38f04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
+          },
+          {
+            "id": "9f44a49780607669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notas"
+            }
+          },
+          {
+            "id": "49f929d455bafcc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUEÑOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SUEÑOS"
+            }
+          },
+          {
+            "id": "0ef964dc1a81da56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contrasen̈as.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Contrasen̈as"
+            }
+          },
+          {
+            "id": "c93b6903e12ed7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contrasen̈as 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contrasen̈as 1"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf943f1cd6859062",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d9f059aaf8a8cf5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "811f4465e259cef6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Programacion uno 29",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "143f379a92a91781",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "dce436cfd9e6670e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b42b1d4e53e78132",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "653b5a52c006940e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Contrasen̈as.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3c6b37c41280d50f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "625b9116bb1524a3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c93b6903e12ed7a3",
+  "lastOpenFiles": [
+    "Contrasen̈as.md",
+    "Contrasen̈as 1.md",
+    "SUEÑOS.md",
+    "Retención palabras no conocidas.md",
+    "Resumen.md",
+    "Notas.md",
+    "2025-10-13.md",
+    "Gym/Programacion《》periodizacion de entrenamiento.md",
+    "Gym/Pesos y ejercicios.md",
+    "Untitled.md",
+    "Lugares del Amazonas reconocidos por la Unesco.md",
+    "Programacion Uno.md",
+    "Gym/Stats.md",
+    "Orden.md",
+    "Gym/Rehabilitación.md",
+    "Valores.md",
+    "Notes.md",
+    "Anota.md",
+    "Gym",
+    "QuickShare_2506271207/Actividades.md",
+    "QuickShare_2506271207/Notes.md",
+    "QuickShare_2506271207/Orden.md",
+    "QuickShare_2506271207/Programacion《》periodizacion de entrenamiento.md",
+    "QuickShare_2506271207/Pesos y ejercicios.md",
+    "QuickShare_2506271207/Planes.md",
+    "QuickShare_2506271207/2025-01-08.md",
+    "QuickShare_2506271207/Reseña Pulp(año).md"
+  ]
+}

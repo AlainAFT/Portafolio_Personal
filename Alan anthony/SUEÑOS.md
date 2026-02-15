@@ -1,0 +1,6 @@
+[[alain Anthony Flores Tapia]]
+1. Me encontraba en la cqncha en el colegio del que salí, acompañado con carmelo y fatima, ambos amigos que tengo mucho aprecio pero en el caso de fatima no he visto desde hace tiempo. 
+
+Yo en el sueño me enter9 de qur fatima en realidad no salio del colegio o se quedo prñara algo mas pero quería buscar una razon justificada ante esa acción pero el que me la responde es carmel9 que el no eligio pero cree que tenia miedo por el nivel y desafios que se la habia pasado muchas veces copiando y eso le picaba y pues no entro directo 
+2.  Entonces en el colegio estabamos, y entraron varios alumnos para danzar o prácticar eso, con el profe jonny, bueno por lo visto no estaban con ganas los otros de bailar y uno se escapa y jonny lo persigue y nos mira a nosotros y a los demas dice se quedan aqui hasta que vuelva con el, y nos pega la puerta. En ese momento disgustado por la situación, pasamos de tema y n9s empezamos a reir de memes en conjunto y habia memes qué fatima mostraba que yo no entendía. Pero hubo como una pelea entre ellos carmelo, fatima
+Y parece que fue tema muy delicado qur no pude escuchar bien. Pero fatima decide irse se monta o se adentra en algo qur parecia una flor y se metio se fue parecian poderees, luego al ver carmelo reacciona acusttumbrado
