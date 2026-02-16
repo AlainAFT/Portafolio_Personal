@@ -1,4 +1,4 @@
-# prgra
+# progra
 
 BUSQUEDA BINARIA ejercicio
 1. Merge sort
@@ -9,11 +9,11 @@ BUSQUEDA BINARIA ejercicio
 
 Hacer el codigo que presentamos en Python y java y rehacerlo sin usar librerías. 
 
-<<<<<<< HEAD
+
 Y hacer métricas de tiempo 
-=======
-Y hacee metricas de tiempo 
+
+Y hacer métricas de tiempo 
 
 
 Hola crack 
->>>>>>> origin/main
+
