@@ -9,3 +9,6 @@
 Hacer el codigo qe presentamos en python y java y rehacerlo sin usar librerias. 
 
 Y hacee metricas de tiempo 
+
+
+Hola crack 
