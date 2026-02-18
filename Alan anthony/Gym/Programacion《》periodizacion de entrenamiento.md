@@ -11,7 +11,7 @@ Tren superior
 1-4 semanas 
 
 Hombro
-Press militar de pie con una mano con mancuernas.   3x12 reps. 20lbs
+Press militar de pie con una mano con mancuernas.   3x12 reps. 22.5lbs
 
 Espalda 
 Agarron hasta el pecho con una mano
@@ -28,11 +28,11 @@ Tren inferior
 Correr para distancias largas 
 
 
-Arrancada básica 45 lbs
+Arrancada básica 45 lbs  2x8
 
 Step ups en movimiento. 3x12 reps 22.5 lbs mancuernas 
 
-Peso muerto  3x9 reps. 35 lbs por lado disco negro
+Peso muerto rumanl 3x9 reps. 35 lbs por lado disco negro
 
 Im here para gemelos en barra 3x 12 reps.  35 lbs por lado disco negro
 
