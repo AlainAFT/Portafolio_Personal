@@ -4,4 +4,4 @@ GDSCRIPT ES UN LENGUAJE dinámico  y al ser este tipo permite que se muy fácil 
 
 # GDSCRIPT reference 
 
-![[Pasted image 20260210223510.png]]
+![[Pasted image 20260216223514.png]]

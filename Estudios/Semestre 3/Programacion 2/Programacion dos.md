@@ -6,7 +6,7 @@
 
 ## mejora continua 
 
-# que es el [[algoritmo]] ?
+# que es un [[algoritmo]] ?
 
 # [[programación estructurada]]
 
@@ -73,11 +73,18 @@ Si cae N y tumba la ficha de adelante suyo entoces tumba n+1 y eso corrobora de 
 
 
 
+#investigacion 
+# investigación sobre algoritmos de ordenamiento
+
+## merge sort
+
+## quick sort 
 
 
-# cues
+## heap sort
 
-smell code
-libro : clean code
+## binary search
 
 
+
+# ENLACES

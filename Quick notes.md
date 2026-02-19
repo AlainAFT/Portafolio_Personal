@@ -5,15 +5,19 @@ BUSQUEDA BINARIA ejercicio
 2. Quick sort
 3. Heap sort
 4. Binary search 
+
+para el vienes de esta semana
 # estructuras de datos 
 
-Hacer el codigo que presentamos en Python y java y rehacerlo sin usar librerías. 
+hacer refactory 
+y ver el rendimiento del codigo
 
-
-Y hacer métricas de tiempo 
-
-Y hacer métricas de tiempo 
-
+para el lunes que viene
 
 Hola crack 
 
+# metodologia de investigacion
+
+llenar las tablas que estan vacias en base a nuestra idea de investigacion y verificar en base a ellas si merecen la pena de investigar .
+
+para el lunes qeu viene
