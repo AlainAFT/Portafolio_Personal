@@ -17,18 +17,12 @@
 
 
 
-#investigacion 
-# investigación sobre algoritmos de ordenamiento
 
-## merge sort
-
-## quick sort 
-
-
-## heap sort
-
-## binary search
 
 
 
 # ENLACES
+
+## tareas
+[[TAREAS#consulta 1]]
+[[TAREAS#consulta 2]]

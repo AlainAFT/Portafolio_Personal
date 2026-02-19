@@ -39,17 +39,14 @@ Son los cortes en el eje x que serian las soluciones para la ecuación
 
 Explica básicamente que si en una función continua con intervalos cerrados ej: a y b  y toma valores de signo contrarios en los extremos , es casi 100 % seguro de que hay un punto de corte en el eje X o intersección osea al menos un valor tal que pertenezca dentro del rango a y b  y que sea 0 en y.
 
-![[Pasted image 20260209220451.png]]
+![](https://github.com/AlainAFT/Portafolio_Personal/blob/main/imagenes%20conectadas/Pasted%20image%2020260209220523.png?raw=true)
 
-![[Pasted image 20260209220506.png]]
-
-![[Pasted image 20260209220523.png]]
 
 En este teorema es de suma importancia que la función sea continua, esto nos permite representar su gráfica como una cuerda que consta de una sola pieza. Si la recta horizontal ![](https://cdn-blog.superprof.com/blog_all/wp-content/uploads/latex/e501a40c21748382df3bef6e16458c350ce7fcf7.png) representa el eje ![](https://cdn-blog.superprof.com/blog_all/wp-content/uploads/latex/4c3ad613bf7d49cecebabe36592057611e792683.png) y los extremos de la cuerda se encuentran en lados opuestos respecto al eje ![](https://cdn-blog.superprof.com/blog_all/wp-content/uploads/latex/4c3ad613bf7d49cecebabe36592057611e792683.png), entonces la cuerda tiene que pasar sobre dicho eje coordenado, esto es, intersecta al eje ![](https://cdn-blog.superprof.com/blog_all/wp-content/uploads/latex/4c3ad613bf7d49cecebabe36592057611e792683.png) por lo que es una raíz de la función.
 
 basta aclarar de que el teorema de Bolzano solo afirma o garantiza de que aun una intersección en el eje X pero no nos dice como hallarla .
 
-![[IMG_20260209_221353_edit_90134195663167.jpg]]
+![](https://github.com/AlainAFT/Portafolio_Personal/blob/main/imagenes%20conectadas/IMG_20260209_221353_edit_90134195663167.jpg?raw=true)
 
 Forma de hallar raíces. 
 # método de la bisección
@@ -78,4 +75,4 @@ Si existieran más de una raíz en el intervalo entonces el método sigue siendo
 
 
 
-# metodo de puntos
+# método de puntos
