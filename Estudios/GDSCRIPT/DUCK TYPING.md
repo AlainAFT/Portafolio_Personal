@@ -11,6 +11,7 @@ Lo que nos quiere decir que una clase podria ser pasada como otra clase si cumpl
 
 # *ejemplo *
 
+```
 Clase animal // clase base
 Esta vivo
 
@@ -26,6 +27,7 @@ Clase auto
 
 Funcion hablar 
 Imprimir honk!! 
+```
 
 
 ---
