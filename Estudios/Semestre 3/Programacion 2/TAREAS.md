@@ -66,8 +66,59 @@ Si cae N y tumba la ficha de adelante suyo entoces tumba n+1 y eso corrobora de 
 
 ## merge sort
 
+Lo que define  a este algoritmo de ordenamiento es  *divide y conquista*
+
+**mas o menos que va hacer?**
+
+va a dividir el array o vector que nos dan con los números desordenados , y los va partir a la mitad y ordenara independientemente las dos sub vectores o arrays , y luego comparara los números de estas dos sub listas y para decidir en que orden van a entrar . 
+
+**imagen para ilustrar como seria :**
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20250923102849709166/arr_.webp)
+
+
+**Paso a paso de lo que hace el merge sort :**
+- *Dividir :* De manera recursiva va dividendo o partiendo  el array o lista a mitades hasta que no se puede dividir mas.
+
+
+- *Conquistar :* Cada sub_array que se crea es ordenado de manera individual usando el algoritmo "Merge Sort"
+
+- *Merge :* Aquí es donde se decide el orden en el que van a entrar los números en la lista o array original o principal
+
+**Recurrencia Relacion de Merge Sort**
+
+![[Pasted image 20260219111143.png]]
+
+$$
+T(n)= 2T(n/2)+O(n)
+$$
+- T(n)  -> El tiempo que le toma para ordenar la lista de numero de tamaño n
+
+- O(n)  -> es el tiempo que se toma en ordenar la lista cuando ya tiene las dos mitades ordenadas de la lista primaria o principal
+
+- 2T(n/2)  -> es el tiempo que se toma para ordenar la dos mitades que saco de manera recursiva 
+
+**ventajas y desventajas**
+
+*ventajas*
+sus ventajas son la estabilidad que tiene este algoritmo , no importa el orden o como este el orden de los números en la lista siempre mantiene el orden relativo de los elementos en la lista.
+Tiene el peor caso de complejidad de tiempo que  es  :
+$$
+O(N *log(N))
+$$
+lo cual responde bien para lista masivas .
+
+*desventajas*
+
+Usa mucho espacio en la memoria , para este ordenamiento necesitas espacio adicional durante el guardado de los arrays que han sido cortados a la mitad , asi que si tu problema o preocupación es el uso de memoria este tipo de ordenamiento no es el indicado.
+
 ## quick sort 
 
 ## heap sort
 
 ## binary search
+
+
+# enlaces
+
+[[TAREAS#consulta 2]]  enlace donde se saca info de esto : (https://www.geeksforgeeks.org/dsa/merge-sort/)
