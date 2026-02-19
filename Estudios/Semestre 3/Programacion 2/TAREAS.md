@@ -114,11 +114,36 @@ Usa mucho espacio en la memoria , para este ordenamiento necesitas espacio adici
 
 ## quick sort 
 
+Este algoritmo de ordenamiento es muy parecido al merge sort por que lo toma como base su idea de **Divide y Conquista** pero tiene las diferencias para ser el ordenamiento y sus diferentes con resultados mas rápidos que los demas algoritmos de ordenamiento.
+
+**Principales pasos del algoritmo**
+
+1.  *Elegir un pivote *  -.  Se elige un elemento del array como pivote   ejemplos :(El primer elementos , el ultimo elemento , el elemento que esta al medio o de manera randomica)
+
+2. *Partir el array * -. Se mueven los elementos acorde al pivote , a la izquierda los elementos menores que el y a la derecha los elementos mayores que el.
+
+ 3. *Aplicar recursividad * -. Se aplica de manera igual para las sub listas que se crearon
+
+4. *Caso base *-. La recursión terminara cuando solo halla un elemento en la lista y ya este ordenado ese elemento .
+
+**imagen para ilustrar :**
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20240926172924/Heap-Sort-Recursive-Illustration.webp)
+
+**Las formas de partir de la lista :**
+
+- Naive partition : Lo que hace primero es introducir los numeros menores y luego los mayores , para finalmente en un lista temporal pasar los resultados a la lista orginal.
+
+- Lomuto Partition : Es mas agradable para la memoria , lo que hace es guardar los índices de los elementos menores y moverlos hacia el lado derecha de manera continua hasta llegar con la lista ordenada
+
+- Hoare Partition : Este es el mas rápidos de todas la variaciones de este algoritmo de ordenación, 
+  Aquí recorremos la matriz desde ambos lados y seguimos intercambiando un elemento mayor a la izquierda con el más pequeño a la derecha mientras la matriz no está dividida.
+
 
 
 ## heap sort
 
-## binary search
+
 
 
 # enlaces
