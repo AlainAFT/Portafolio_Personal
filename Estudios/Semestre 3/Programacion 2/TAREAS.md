@@ -114,6 +114,8 @@ Usa mucho espacio en la memoria , para este ordenamiento necesitas espacio adici
 
 ## quick sort 
 
+
+
 ## heap sort
 
 ## binary search
