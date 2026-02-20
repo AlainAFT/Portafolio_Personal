@@ -144,6 +144,31 @@ Este algoritmo de ordenamiento es muy parecido al merge sort por que lo toma com
 ## heap sort
 
 
+Se la ve a la lista de numeros  como arbol y se hace que el se repete el orden de que los numeros mas mayores por arriba de los menores y todo por nodoos o niveles y el primer nivel es donde nos topamos el mas mayor de los numeros, y lo que hacemos luego es enviar ese numero grande a ala ultima posicion de la lista y para la siguiente iteracion del algoritmo no tomamos en cuenta al ultimo porque suponemos que esta ya ordenado.
+
+**Pasos importantes **
+
+*tratarlo como arbol*
+
+vemos que el inicio del arbol es el indice 0 y luego vemos que sus hijas son los siguientes indices *2i+1*  y *2i+2*  esto te da dos hijas una para la izquierda y otra para la derecha 
+![](https://media.geeksforgeeks.org/wp-content/uploads/20240928160744/Visualize-the-array-as-a-complete-binary-tree.webp)
+
+*Construir el max heap*
+
+Moves los numeros de tal forma que en el 0 quede el numero mas grande 
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20240927200909/Heapify-Binary-Tree-1.webp)
+
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20260205125317375611/Heapify-Binary-Tree-8.png)
+
+*Enviar el numero mas grande a la ultima posicion*
+
+Se intercambia de posicion con el ultimo numero en la lista  y luego se reduce el tamaño que tenemos en variable de la lista para que no tome en cuenta al ultimo numero porque ya esta ordenado.
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20240928160828/Remove-from-Max-Heap-2.webp)
+
+
 
 
 # enlaces
