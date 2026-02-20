@@ -150,26 +150,57 @@ Se la ve a la lista de numeros  como arbol y se hace que el se repete el orden d
 
 *tratarlo como arbol*
 
-vemos que el inicio del arbol es el indice 0 y luego vemos que sus hijas son los siguientes indices *2i+1*  y *2i+2*  esto te da dos hijas una para la izquierda y otra para la derecha 
+vemos que el inicio del árbol es el índice 0 y luego vemos que sus hijas son los siguientes índices *2i+1*  y *2i+2*  esto te da dos hijas una para la izquierda y otra para la derecha 
+
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20240928160744/Visualize-the-array-as-a-complete-binary-tree.webp)
 
-*Construir el max heap*
+*Construir el Max heap*
 
-Moves los numeros de tal forma que en el 0 quede el numero mas grande 
+Mueves los números de tal forma que en el 0 quede el numero mas grande 
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20240927200909/Heapify-Binary-Tree-1.webp)
 
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/20260205125317375611/Heapify-Binary-Tree-8.png)
+![](https://media.geeksforgeeks.org/wp-content/uploads/20240927200910/Heapify-Binary-Tree-3.webp)
 
-*Enviar el numero mas grande a la ultima posicion*
+*Enviar el numero mas grande a la ultima posición*
 
-Se intercambia de posicion con el ultimo numero en la lista  y luego se reduce el tamaño que tenemos en variable de la lista para que no tome en cuenta al ultimo numero porque ya esta ordenado.
+Se intercambia de posición con el ultimo numero en la lista  y luego se reduce el tamaño que tenemos en variable de la lista para que no tome en cuenta al ultimo numero porque ya esta ordenado.
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20240928160828/Remove-from-Max-Heap-2.webp)
 
 
+## Shell Sort
 
+
+inventor : El método se denomina **Shell** en honor de su inventor [Donald Shell](https://es.wikipedia.org/w/index.php?title=Donald_Shell&action=edit&redlink=1 "Donald Shell (aún no redactado)").
+
+Es un algoritmo que es in-place y es una optimización del insertion sort , reduce los números de intercambios en largas listas significativamente .
+
+Compara los elementos que están apartados por el gap y gradualmente se reduce esta distancia permitiendo intercambios mas rápidos de elementos en la lista.
+
+**Pasos**
+
+*Elegir la distancia o gap en la que se va comparar normalmente es de la mitad de la lista de elementos *
+
+
+*Ordenas los elementos dentro de cada gap con el algoritmo INSERTION SORT*
+
+*Reduces la distancia o el gap hasta que te de 1 *
+
+
+**inicio**
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20251027160304040549/420046893.webp)
+
+
+**Luego de cada iteración se va comparando los números , enviando los números menores al lado izquierdo **
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20251027160304276659/420046894.webp)
+
+**Cada vez que lleguemos hasta al final de la lista debemos reducir gradualmente la distancia o gap**
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20251027160304699301/420046895.webp)
 
 # enlaces
 
