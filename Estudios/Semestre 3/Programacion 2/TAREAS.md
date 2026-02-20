@@ -204,4 +204,4 @@ Compara los elementos que están apartados por el gap y gradualmente se reduce e
 
 # enlaces
 
-[[TAREAS#consulta 2]]  enlace donde se saca info de esto : (https://www.geeksforgeeks.org/dsa/merge-sort/)
+[[TAREAS#consulta 2]]  enlace donde se saca info de esto : https://www.geeksforgeeks.org/
