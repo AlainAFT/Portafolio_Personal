@@ -134,7 +134,7 @@ Este algoritmo de ordenamiento es muy parecido al merge sort por que lo toma com
 
 - Naive partition : Lo que hace primero es introducir los numeros menores y luego los mayores , para finalmente en un lista temporal pasar los resultados a la lista orginal.
 
-- Lomuto Partition : Es mas agradable para la memoria , lo que hace es guardar los índices de los elementos menores y moverlos hacia el lado derecha de manera continua hasta llegar con la lista ordenada
+- Lomuto Partition : Es mas agradable para la memoria , lo que hace es guardar los índices de los elementos menores y moverlos hacia el lado izquierda de manera continua hasta llegar con la lista ordenada
 
 - Hoare Partition : Este es el mas rápidos de todas la variaciones de este algoritmo de ordenación, 
   Aquí recorremos la matriz desde ambos lados y seguimos intercambiando un elemento mayor a la izquierda con el más pequeño a la derecha mientras la matriz no está dividida.

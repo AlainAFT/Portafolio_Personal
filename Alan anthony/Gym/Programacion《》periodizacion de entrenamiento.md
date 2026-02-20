@@ -15,7 +15,7 @@ Press militar de pie con una mano con mancuernas.   3x12 reps. 22.5lbs
 
 Espalda 
 Agarron hasta el pecho con una mano
-3x12 reps 40 lbs 
+3x12 reps 45 lbs 
 
 Core 
 Ejercicio del granjero y cargando pesas 30 lbs
