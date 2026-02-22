@@ -18,7 +18,7 @@ Agarron hasta el pecho con una mano
 3x12 reps 45 lbs 
 
 Core 
-Ejercicio del granjero y cargando pesas 30 lbs
+Ejercicio del granjero y cargando pesas 40 lbs
 1 min 
 
 

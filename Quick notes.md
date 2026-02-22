@@ -1,20 +1,33 @@
 # progra
 
-BUSQUEDA BINARIA ejercicio
-1. Merge sort
-2. Quick sort
-3. Heap sort
-4. Binary search 
+Hacer una funcion si es primo
 
-para el vienes de esta semana
+Cantidad de digitos en nuestro numero
+
+Insertar digitos en una posicion X
+
+**investigar**
+
+Que es paradigma en general
+
+Que paradigmas hay en el desarrollo de software 
+
+**Tarea**
+
+Hacerlo en metodos para la clase numeros naturales:
+
+Ordenar Digitos solo usando int
+
+Convertir en literal
+
 # estructuras de datos 
 
 hacer refactory 
 y ver el rendimiento del codigo
 
-para el lunes que viene
+Hacer los ejercicios en el lms
 
-Hola crack 
+
 
 # metodologia de investigacion
 
