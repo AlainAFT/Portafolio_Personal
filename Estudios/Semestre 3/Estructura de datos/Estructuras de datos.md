@@ -14,3 +14,4 @@ El [[puntero top]] indica la mejor
 
 Muestra una pila vacia sin elementos, donde el [[puntero top]] es igual a cero, indicando qur no hay datos por recuperar 
 
+

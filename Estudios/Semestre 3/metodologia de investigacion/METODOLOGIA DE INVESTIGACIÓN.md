@@ -3,3 +3,5 @@
 ## cualitativa 
 
 ## cuantitativo 
+
+# diagrama de ishikawa 
