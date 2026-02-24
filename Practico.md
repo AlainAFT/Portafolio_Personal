@@ -73,4 +73,4 @@ return arr[top++]
 
 # 4. Ilustre la siguiente secuencia de operaciones sobre una cola vacıa implementada en un arreglo Q`[1 . . . 6]:` En queue(Q,4), En queue(Q,1),En queue(Q,3), De queue(Q), En queue(Q,8), De queue(Q) 
 
-
+![[IMG_20260224_173316_edit_46075102690235.jpg]]
