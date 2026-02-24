@@ -99,6 +99,7 @@ Es lo que tiene que hacer pero explicado de manera detallado de lo que se hizo
 
 ## historias de usuarios 
 
+Secuencias detalladas como instrucciones detallas sobre los features
 
 ## kanban
 
