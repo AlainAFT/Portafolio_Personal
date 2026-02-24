@@ -1,6 +1,6 @@
 
 
-# estructuras de dtos ([[pilas]]) 
+# estructuras de datos ([[pilas]]) 
 
 # Pila llena 
 
