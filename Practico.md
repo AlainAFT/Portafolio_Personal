@@ -78,3 +78,102 @@ return arr[top++]
 
 #  Mientras las colas y pilas permiten la inserción/eliminación de elementos en un solo lado, una deque (double-ended queue) permite la inserci´on/eliminaci´on de elemenetos en ambos lados. Escriba 4 operaciones de tiempo constante para insertar/eliminar elementos de ambos lados de un dequeu implementado sobre un arreglo
 
+
+
+# 6. Asumiendo que solo tiene pilas disponibles (no arreglos), muestre como implementar una cola utilizando dos pilas. Analice el tiempo de ejecución de cada operación de pila
+
+```
+#include <iostream>
+#include <stack>
+using namespace std;
+
+class Cola {
+    
+    private :
+    stack<int> pila1;   // Recibe nuevos elementos
+        stack<int> pila2;  // Sirve elementos en orden FIFO
+        
+        
+        public:
+        Cola(int x){
+            pila1.push(x);
+        }
+        
+        void invertir(){
+            if(pila2.empty()){
+                while(!pila1.empty()){
+                    pila2.push(pila1.top());
+                    pila1.pop();
+                }
+            }
+        }
+        
+        int decola(){
+            invertir();
+            if(pila2.empty()){
+                cout<<"error no hay nda en la cola"<<endl;
+                return 0;
+            }
+            
+            int ele = pila2.top();
+            pila2.pop();
+            return ele;
+        }
+        
+        int alfrente(){
+            if(pila2.empty()){
+                cout<<"no hay elementos";
+                return 0;
+            }
+            
+            return pila2.top();
+        }
+        
+        
+        
+};
+```
+
+# Asumiendo que solo tiene colas disponibles (no arreglos), muestre como implementar una pila utilizando dos colas. Analice el tiempo de ejecución de cada operación de pila 
+
+```
+class pila {
+    
+    private :
+    
+    queue <int> cola1;   
+        queue <int> cola2;  
+        
+        public : 
+        
+        void invertir(){
+            if(cola2.empty()){
+                while(!cola1.empty()){
+                    cola2.push(cola1.tail-1 );
+                    cola1.pop();
+                }
+            }
+        }
+        
+        int sacarele(){
+            if(cola2.tail==1){
+                cout<<"error"<<endl;
+                return 0;
+            }
+            int x = cola2.head;
+            cola2.pop();
+            return x;
+        }
+       
+        
+};
+```
+
+# ¿Se puede implementar una operación Insert de tiempo constante en una lista simplemente enlazada? ¿Y qué de Delete?
+
+
+Se puede implementar el insert pero solo en ciertas posiciones como la primera ,  ya que solo se necesita crear el nodo y actualizar el puntero de cabeza (`head`) para que apunte al nuevo nodo.
+
+En cambio `Delete` necesita el dato que vamos eliminar y donde se va a apuntar.
+
+#   Implemente una pila utilizando una lista simplemente enlazada. Las operaciones Push y Pop deben corren en tiempo constante
