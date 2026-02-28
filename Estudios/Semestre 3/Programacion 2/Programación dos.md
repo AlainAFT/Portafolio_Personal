@@ -53,6 +53,6 @@ Son métodos que cambian los estados de las características de nuestro objeto.
 Cuando hablamos de la clase personas o humanos , sabemos que puede hacer cosas pero no solo eso es el humano , tienes mas es por eso que no solo puedes llamarlo solo humano y ya esta . Por que seria muy vago la cosa , otro caso seria el tema de animales .
 Perro y gato son animales pero no hay un animales , porque es un concepto muy general o grande.
 
-
+A
 # ENLACES
 
