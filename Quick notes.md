@@ -1,24 +1,13 @@
 # progra
 
-- [x] Hacer una funcion si es primo 
+Que es un tad 
 
-- [x] Cantidad de digitos en nuestro numero
+Tipo de dato abstracto 
 
-- [x] Insertar digitos en una posicion X
+Para qe se usa 
 
-**investigar**
+Ejemplos algoritmos
 
-Que es paradigma en general
-
-Que paradigmas hay en el desarrollo de software 
-
-**Tarea**
-
-Hacerlo en metodos para la clase numeros naturales:
-
-Ordenar Digitos solo usando int
-
-Convertir en literal
 
 # estructuras de datos 
 
