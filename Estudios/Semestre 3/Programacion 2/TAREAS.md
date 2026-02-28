@@ -202,6 +202,44 @@ Compara los elementos que están apartados por el gap y gradualmente se reduce e
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20251027160304699301/420046895.webp)
 
+# consulta 3 
+# ¿Qué es un paradigma?
+
+Las definiciones que consulte están basadas y inspiradas en lo que decía `Thomas Kunh` en su libro sobre las `Revoluciones Cientificas`.
+
+Un **Paradigma** es un conjunto de creencias , verdades , técnicas , practicas y valores aceptados por una comunidad de personas , aunque `Thomas Junh` comunidad científica por que hablaba mas sobre el campo científico. ==El Paradigma viene siendo los lentes o foco de como veremos el mundo y eso dependerá lo que se cree como verdad absoluta en ese momento de la historia==.
+
+Quiere decir de que esa forma de ver el mundo , las cosas o el contexto no se cuestiona hasta que sal un paradigma dominante y lo remplace.  Esto es mas conocido como revoluciones científicas y `Thomas` decía que la ciencia estaba conformada por dichas revoluciones.
+
+## revoluciones 
+
+La revoluciones son el cambio de paradigma o la transición a un paradigma dominante porque el actual paradigma no tiene respuestas para ciertas anomalías o casos.
+
+Estas revoluciones ocurren cuando se produces las dichas anomalías que nuestro paradigma actual no puede responder o no se puede hallar sentido a lo que esta ocurriendo , es aquí cuando encontramos una posible revolucion o ==CAMBIO DE PARADIGMA== porque se encuentran inconsistencias en la teoría existente.
+
+`Thomas Kunh` igual explica la existencia de dos facciones que son la `Ciencia Normal` y `Ciencia Extraordinaria` que explica mas o menos como operan diciendo que la *Normal* no busca juzgar el paradigma existente y que la *Extraordinaria* busca juzgarla debido a la fallas de explicar ciertos fenómenos.
+
+**Ejemplo : **
+
+**Transición de la teoría geocéntrica a la heliocéntrica**
+
+Esta cambio va naciendo porque la teoria geocentrica no podia explicar a ciertos fenomenos que sucedian que dicha teoria no podia explicar eficientemente. Entonces, los astromonos se lanzan en buscar una teoria nueva o dominante que sea respalda por un gran grupo de cientificos y remplazar el paradigma actual. 
+El teoria heliocentrica se va dando forma con el astronomo Copernico que explica que es el SOL el que esta en el centro y los demas cuerpos celeste son los que orbitan alrededor de el. Esto se fue aceptando por la comunidad y hasta que remplazo la teoria existente .
+
+# ¿Qué es un paradigma en la programación?
+
+ la programación es resolver problemas humanos atreves del apoyo de las maquinas y la resolución de esos problemas pueden tener diferentes camino que algunos pueden ser decentes , peores o el mejor pero todos nos llevan al mismo resultado . 
+ Pues esas formas o estructuras que seguimos son paradigmas en la programación.
+Estos paradigmas ya están documentos donde especifican como es la estructura a seguir.
+
+- Programación Estructurada -. Es secuencial , simple y la mas intuitiva para enseñar por su sencillez .  Empiezas de arriba hacia abajo , donde podemos repartir por funciones asi dividiendo el codigo pero cuando el proyecto o la cosa por hacer en muy grande , esta estructura queda muy expuesta porque es muy difícil de mantener el codigo porque se hace largo y difícil de detectar errores o agregar nuevas funcionalidades.
+
+- Programacion Orienteada a Objetos : Es estructura que separa el sistema en entidades u objetos , hace de que cada entidad pueda tener caracteristicas y  metodos que pueden unicos. Aqui se puede aprender los terminos de herencia , polimorfismo , etc.
+
+- Programacion Reactiva : Es una forma de programar que se dedica a ver los datos como fluyen hasta que tienen un cambio repentino y se realiza la ejecución del codigo.
+
+
+- Programacion Funcional: Es una estructura basada en funciones , donde no se puede usar bucles y difurcaciones. 
 
 
 # enlaces
