@@ -22,6 +22,11 @@ llenar las tablas que estan vacias en base a nuestra idea de investigacion y ver
 para el lunes qeu viene
 
 
+Objeto : la nula o falta de concientizacion de la sociedad o de los padres 
+
+Campo dd acción : qur no se ve como problema urgente y eso provoca que se siga haciendo sin algun control
+
+
 Contenido corto / ansiedad / desesperación 
 
 Mala higiene del sueño / falta de conocimiento 

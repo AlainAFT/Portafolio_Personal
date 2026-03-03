@@ -101,5 +101,9 @@ Es lo que tiene que hacer pero explicado de manera detallado de lo que se hizo
 
 Secuencias detalladas como instrucciones detallas sobre los features
 
+# Dor
+
+# Dod
+
 ## kanban
 
