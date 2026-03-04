@@ -11,7 +11,7 @@ Tren superior
 1-4 semanas 
 
 Hombro
-Press militar de pie con una mano con mancuernas.   3x12 reps. 22.5lbs
+Press militar de pie con una mano con mancuernas.   3x12 reps. 25lbs
 
 Espalda 
 Agarron hasta el pecho con una mano

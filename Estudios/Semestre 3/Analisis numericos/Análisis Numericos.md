@@ -46,7 +46,7 @@ En este teorema es de suma importancia que la función sea continua, esto nos pe
 
 basta aclarar de que el teorema de Bolzano solo afirma o garantiza de que aun una intersección en el eje X pero no nos dice como hallarla .
 
-![](https://github.com/AlainAFT/Portafolio_Personal/blob/main/imagenes%20conectadas/IMG_20260209_221353_edit_90134195663167.jpg?raw=true)
+
 
 
 ![[graficos]]

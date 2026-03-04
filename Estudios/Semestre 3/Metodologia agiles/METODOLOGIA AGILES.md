@@ -102,8 +102,15 @@ Es lo que tiene que hacer pero explicado de manera detallado de lo que se hizo
 Secuencias detalladas como instrucciones detallas sobre los features
 
 # Dor
+Definicion de listo
 
 # Dod
 
-## kanban
+Definicion de terminado
+
+
+# Pivote
+
+Una puntuación que este dentro del rango que tenemos. 
+El menos facil ni el menos difícil 
 
