@@ -33,15 +33,16 @@ Mala higiene del sueño / falta de conocimiento
 
 Libertades que tienen las IA
 
-
+Formulación de problema 
 
 De que manera la falta de control de uso de celular afecta a la incapacidad de estar tranquilos en los estudiantes de tal edad. 
 
 
-
+Objeto de estudio 
 
 Incapacidad de los estudiantes de estar tranquilo sin el uso de celular
 
+Campo de acción 
 La falta de regulación de los padres sobre el uso del celular
 
 
