@@ -11,9 +11,7 @@ Ejemplos algoritmos
 
 # estructuras de datos 
 
-Hacer matriz inversa en base el codigo de un compañero de clase. 
-
-
+Hacer operaciones con matrices 
 
 # metodologia de investigacion
 
@@ -44,6 +42,10 @@ Incapacidad de los estudiantes de estar tranquilo sin el uso de celular
 
 Campo de acción 
 La falta de regulación de los padres sobre el uso del celular
+
+
+
+
 
 
 Creador de Videojuegos : Game changer. 
