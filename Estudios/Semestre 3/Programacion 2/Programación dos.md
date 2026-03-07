@@ -53,6 +53,37 @@ Son métodos que cambian los estados de las características de nuestro objeto.
 Cuando hablamos de la clase personas o humanos , sabemos que puede hacer cosas pero no solo eso es el humano , tienes mas es por eso que no solo puedes llamarlo solo humano y ya esta . Por que seria muy vago la cosa , otro caso seria el tema de animales .
 Perro y gato son animales pero no hay un animales , porque es un concepto muy general o grande.
 
+# arquitectura de 3 capas
+```
+LO QUE SE VA USAR PARA EL PROYECTO FINAL
 
+. NET/C#
+
+. ANGULAR 21. (FRAMEWORK )
+
+. SINGULAR PAGE APPLICATION (S. P. A. )
+```
+
+## presentación 
+
+```
+Consola, web, movil, escritorio 
+```
+
+Como se ve. 
+## negocio 
+```
+Como Funciona la app
+```
+
+La logica como se hace. 
+## datos 
+
+```
+- Base de datos
+- archivo 
+- cache/cookies
+```
+Guardar los procesos, datos que hacemos. 
 # ENLACES
 
