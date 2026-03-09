@@ -4,17 +4,17 @@
 
 ## Antecedentes
 
-Se tiene visto de que el humano crea o adapta cosas para que la para que el alrededor pueda ser mas accesible para nosotros , ya sea agilizando cosas , automatizando cosas o etc. Pero hoy nos topamos algo que puede ser mas o menos una adaptación del humano a la cosa que viene ya creando con los años el internet . Nuestra atención se ha ido partiendo con el tiempo , el tiempo de queda de nosotros entre contenido es mas corto aun y que las redes sociales , contenido y herramienta se han ido adaptando a esta necesidad de novedades constantes y de gran información.
+Se tiene visto de que el humano crea o adapta cosas para que la para que el alrededor pueda ser mas accesible para nosotros , ya sea agilizando cosas , automatizando cosas o etc. Pero hay momentos donde nos topamos algo que es la adaptación del humano a la cosa que viene ya creando con los años el internet . Nuestra atención se ha ido partiendo con el tiempo , el tiempo de queda de nosotros entre contenido es mas corto aun y que las redes sociales , contenido y herramienta se han ido adaptando a esta necesidad de novedades constantes y de gran información.
 Básicamente es como cuando un usuario surfeaba entre canales en la televisión solo que lo que sufrimos ahora trae muchas mas consecuencias al usuario y puede provocar una adicción similar al de maquinas tragaperras por su sistema de recompensa que hace que te mantiene por buscar un mejor resultado.
 
 # Planteamiento de problema
 
-Este sobreuso también afecta a menores igual porque con los años se ha visto que la edades en la que se recibe un teléfono inteligente son cada vez mejores es casi normal ver a un niño con su Tablet solitaria para el para poder ver contenido pues que normalmente se lo usa como escaparate de los padres para poder tranquilizar o deshacerse de sus hijos. 
+Este sobreuso también afecta a menores igual porque con los años se ha visto que la edades en la que se recibe un teléfono inteligente son cada vez menores es casi normal ver a un niño con su Tablet  para el para poder ver contenido pues que normalmente se lo usa como escaparate de los padres para poder tranquilizar o deshacerse de sus hijos. 
 Tambien podemos hablar de los  jovenes que se encuentran en la escuela de que sufren igual y que caen en estos bucles donde entras en ese estado de flow donde te olvidas del tiempo y que los padres no toman una accion directa para poder reducir esta dependencia lo que provoca una necesidad de novedad , feedback y estimulo de nuevas cosas para estas personas asi que como estan acustumbradas se les hace normal recibir ese estimulo o dopamina atreves del teléfono y son incapaces de parar y hacer el uso de manera adecuada porque aveces se necesita la ayuda de los padres en la educacion digital de estos dispositivos inteligentes porque realmente toman como un problema pero no toman la acciones suficientes como para poder reducir la adiccion a esto porque aveces ellos igual estan dentro de este consumo rapido y este sobreestimulo.
 
 # Identificación del problema
 
-llegamos al punto de que los jóvenes no pueden tener el control de si mismo ante la necesidad del telefono porque la familia no realiza ninguna regulazion sobre la higuiene digital  o explicar los problemas que conlleva esta dependencia a esto porque aveces tambien ellos estan dentro de esta cultura de consumidor , esta adiccion conlleva a que los jovenes no puedan encontrarse tranquilos en sus ideas o puedan concentrarse en un tarea sin necesitar cambios o novedades durante el proceso sin poder ver el telefono.
+llegamos al punto de que los jóvenes no pueden tener el control de si mismo ante la necesidad del telefono porque la familia no realiza ninguna regulazion sobre la higuiene digital  o explicar los problemas que conlleva esta dependencia a esto porque aveces tambien ellos estan dentro de esta cultura de consumidor , esta adiccion conlleva a que los jovenes no puedan encontrarse tranquilos en sus ideas o puedan focalizar algun cosa en concreto de su interes sin necesitar cambios o novedades durante el proceso sin poder ver el telefono.
 
 # Análisis Causa - Efecto
 

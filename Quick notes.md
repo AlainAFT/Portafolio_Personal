@@ -15,11 +15,6 @@ Hacer operaciones con matrices
 
 # metodologia de investigacion
 
-llenar las tablas que estan vacias en base a nuestra idea de investigacion y verificar en base a ellas si merecen la pena de investigar .
-
-para el lunes qeu viene
-
-
 Objeto : la nula o falta de concientizacion de la sociedad o de los padres 
 
 Campo dd acción : qur no se ve como problema urgente y eso provoca que se siga haciendo sin algun control
@@ -44,6 +39,9 @@ Campo de acción
 La falta de regulación de los padres sobre el uso del celular
 
 
+# métodologia agiles
+
+Leer el libro en lms
 
 
 

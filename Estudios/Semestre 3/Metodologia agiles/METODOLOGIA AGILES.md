@@ -54,6 +54,8 @@ Imagen de escalones
 
 ## 5 ceremonias de scrum (importante) 
 
+Planning :
+
 El daily scrum :
 
 Son sesiones cortas para dar seguimiento sobre lo que hizo ayer y lo que hara mañana o hoy
@@ -69,6 +71,8 @@ Sprint retrospective :
 Sprint refinement :
 
 
+---
+
 Definicion de sprint :
 
 Serian intervalos donde se tiene un tiempo para cumplir una cosa
@@ -76,11 +80,14 @@ Serian intervalos donde se tiene un tiempo para cumplir una cosa
 
 ## Equipo de scrum : 
 
-Product owner 
+Product owner :  el dueño del producto
+Verifica si estan listas las historias de usuario. 
+Sabe metricas sobre el negocio. 
 
-Scrum master 
+Scrum master : Se encarga de que se cumplan las 5 ceremonias de scrum.  
 
-Equipo de desarrollo 
+Equipo de desarrollo :
+Se encarga de hacer las funcionalidades. 
 
 ## backlog
 
@@ -113,4 +120,9 @@ Definicion de terminado
 
 Una puntuación que este dentro del rango que tenemos. 
 El menos facil ni el menos difícil 
+
+
+
+
+
 
