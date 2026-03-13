@@ -5,20 +5,21 @@
 # Dolor del tendon 
 1/10
 
-
+# febrero hasta 15 marzo
 
 Tren superior 
 1-4 semanas 
 
 Hombro
-Press militar de pie con una mano con mancuernas.   3x12 reps. 25lbs
+Press militar de pie con una mano con mancuernas.   3x12 reps. 27. 
+5lbs
 
 Espalda 
 Agarron hasta el pecho con una mano
-3x12 reps 45 lbs 
+3x12 reps 55 lbs 
 
 Core 
-Ejercicio del granjero y cargando pesas 40 lbs
+Ejercicio del granjero y cargando una pesa 45lbs
 1 min 
 
 
@@ -28,13 +29,13 @@ Tren inferior
 Correr para distancias largas 
 
 
-Arrancada básica 45 lbs  2x8
+Arrancada básica 45 lbs  2x9 con barra de 20kg
 
-Step ups en movimiento. 3x12 reps 22.5 lbs mancuernas 
+Step ups en movimiento. 3x12 reps 27. 5lbs mancuernas 
 
-Peso muerto rumanl 3x9 reps. 35 lbs por lado disco negro
+Peso muerto rumanl 3x9 reps. 35 lbs por lado disco colores barra 20kg
 
-Im here para gemelos en barra 3x 12 reps.  35 lbs por lado disco negro
+Im here para gemelos en barra 3x 12 reps.  35 lbs por lado disco colores barra 20kg
 
 
 Actividades extras 
@@ -44,5 +45,5 @@ Jumping day
 6 o 7 saltos con alta intensidad 100%
 
 
-
+# 16 de marzo hasta 17 abril
 
