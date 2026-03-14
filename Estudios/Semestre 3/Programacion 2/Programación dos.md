@@ -85,5 +85,15 @@ La logica como se hace.
 - cache/cookies
 ```
 Guardar los procesos, datos que hacemos. 
+# REQUERIMIENTOS FUNCIONALES 
+
+# REQUERIMIENTOS NO FUNCIONALES 
+# libros
+```
+- UML
+. PROC UNIT - GUDY BOOK
+. DISEÑO ORIENTADO A OBJETOS - CRAIG LARMAN
+
+```
 # ENLACES
 

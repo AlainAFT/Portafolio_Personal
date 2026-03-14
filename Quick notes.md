@@ -1,12 +1,9 @@
-# progra
+# progra 2
 
-Que es un tad 
-
-Tipo de dato abstracto 
-
-Para qe se usa 
-
-Ejemplos algoritmos
+Que son los requerimientos no funcionales 
+Para que sirve
+Cuales son
+Diferencis entre requerimientos funcionales
 
 
 # estructuras de datos 
