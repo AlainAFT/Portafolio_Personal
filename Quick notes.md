@@ -1,5 +1,6 @@
 # progra 2
 
+investigacion de R. No Funcionales. 
 Que son los requerimientos no funcionales 
 Para que sirve
 Cuales son
