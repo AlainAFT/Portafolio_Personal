@@ -47,3 +47,12 @@ Jumping day
 
 # 16 de marzo hasta 17 abril
 
+**tren superior **
+
+Laterales con mancuernas. 4 x 9 reps 6kg
+Maquina de espalda en forma de T  4x8 reps
+
+Face pull en polea  2x9
+
+
+
