@@ -56,3 +56,12 @@ Face pull en polea  2x9
 
 
 
+**tren inferior **
+
+Arrancada básica 45 lbs disco rojo  3x8 con barra de 20kg 
+
+Peso muerto rumanl 3x9 reps. 35 lbs por lado disco colores barra 20kg
+
+Hacka lineae 2 x 8 25 lbs
+
+Im here para gemelos en barra 3x 12 reps.  35 + 10 lbs por lado disco colores barra 20kg
