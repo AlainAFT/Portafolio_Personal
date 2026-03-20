@@ -16,6 +16,9 @@ Nos da un estructura a la investigación sobre que vamos a responder y eso sera 
 debe hacerse en forma de pregunta 
 
 # taxonomia de bloom
+
+^c49bf7
+
 Creada por : Bloom
 
 Pasos para poder cumplir ciertos objetivos. 
