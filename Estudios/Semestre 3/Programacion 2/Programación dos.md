@@ -88,11 +88,26 @@ Guardar los procesos, datos que hacemos.
 # REQUERIMIENTOS FUNCIONALES 
 
 # REQUERIMIENTOS NO FUNCIONALES 
+
+Requerimientos dados por personas tecnicas 
+
+# ciclos de software 
+## requerimientos 
+## análisis 
+
+Imaginarnos como se veria al final, los famosos 
+`mock ups`
+
+## diseño 
+
+Diagrama de clases, como se conectan
+
 # libros
 ```
 - UML
 . PROC UNIT - GUDY BOOK
 . DISEÑO ORIENTADO A OBJETOS - CRAIG LARMAN
+. Ing. Software Roger Preza
 
 ```
 # ENLACES

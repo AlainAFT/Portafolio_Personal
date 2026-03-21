@@ -49,8 +49,9 @@ Jumping day
 
 **tren superior **
 
-Laterales con mancuernas. 4 x 9 reps 6kg
-Maquina de espalda en forma de T  4x8 reps
+Laterales con mancuernas. 4 x 12 reps 5kg
+
+Dominadas pronos no llegar al fallo
 
 Face pull en polea  2x9
 
