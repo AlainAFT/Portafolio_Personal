@@ -58,3 +58,19 @@ Una guia sobre como hacer una investigación o cumplirla.
 # objetivo general
 
 Redactar con un verbo, debe responder a la formulacion del problema
+
+# Objetivos específicos 
+
+Son la guia para poder cumplir nuestro o jetivo general. 
+
+Por defecto se podria usar los niveled de la taxonomía de bloom pero es a eleccion del investigador y tendra que explicar por es asi su elección. 
+
+Los objetivos específicos deben ser medibles, simples de entender, no explicados de manera vaga, y construido de manera secuencial como si fuera una escalera. 
+
+Todos los objetivos específicos deben apuntar al objetivo general. 
+
+
+1. Idetificar que problemas surgen en los jóvenes que tienen poca regulación parental en el telofono. 
+2. Comprender porque esos problemas surgen y como afectan al estudiante 
+3. Contrastar el comportamiento actual de los estudiantes con años anteriores. 
+4. Demostrar la relación entre poca regulación del telefono y la poca capacidad de los jovenes de estar tranquilos. 
