@@ -102,6 +102,37 @@ Imaginarnos como se veria al final, los famosos
 
 Diagrama de clases, como se conectan
 
+# como detallas historias de usuario
+
+Verlo como pantalla
+
+Pensar o empatizar con el cliente. 
+
+# tipos de asociación 
+
+Asociación compuesta : esa clase depende de esta otra clase.
+
+Asociación de agregación : puede cumplir su funcion sin esa clase.
+
+No es necesario de que las clases esten de inicio en tres capas 
+
+No instaciar hacia arriba si haces  tres capas 
+
+Pero si se puede instaciar hacia abajo
+
+# definir las capas
+
+Imaginarme yo ocupando para saber definir en que capa va
+
+# visibilidad de metodos
+
+Si una clase tiene interaccion con otra clase necesariamente necesita metodos publicos
+
+
+# Polimorfismo
+
+# Herencia
+
 # libros
 ```
 - UML
