@@ -44,4 +44,41 @@ Leer el libro en lms
 
 
 
-Creador de Videojuegos : `Game changer`. 
+Creador de Videojuegos : `Game changer`
+
+
+
+
+Oraciones :
+
+Whats this?
+Its a red and purple bike
+
+What are these ?
+
+They are balls.
+
+How many balls are there?
+There are seven balls
+
+How many trains are there?
+
+There is only one train 
+
+What is the train's colors?
+
+It's red 
+
+What are those?
+
+They are trunks 
+
+What colors are they ? 
+
+They are blue and red 
+
+How many trunks can you see?
+
+There are 2 trunks.
+
+

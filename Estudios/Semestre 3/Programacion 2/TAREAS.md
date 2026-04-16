@@ -87,7 +87,7 @@ va a dividir el array o vector que nos dan con los números desordenados , y los
 
 **Recurrencia Relacion de Merge Sort**
 
-![[Pasted image 20260219111143.png]]
+![[Pasted image 20260219111143.png|1000]]
 
 $$
 T(n)= 2T(n/2)+O(n)

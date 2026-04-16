@@ -56,9 +56,11 @@ Imagen de escalones
 
 Planning :
 
+Es planear los requerimientos  o backlog que nos servirán para podef crear las historias de usuarios. 
+
 El daily scrum :
 
-Son sesiones cortas para dar seguimiento sobre lo que hizo ayer y lo que hara mañana o hoy
+Son sesiones cortas para dar seguimiento sobre lo que hizo hoy y que impedimentos tuvo. 
 
 El sprint review :
 
@@ -67,9 +69,10 @@ Una demo
 
 Sprint retrospective :
 
+Mirar los resultados obtenidos y que se puede mejorar para el siguiente sprint. 
 
 Sprint refinement :
-
+Llevar a cabo las mejoras al sprint para obteber mejores resultados. 
 
 ---
 
@@ -77,7 +80,16 @@ Definicion de sprint :
 
 Serian intervalos donde se tiene un tiempo para cumplir una cosa
 
+Definicion de incremento : 
+ Es el resultado de lo que deja el sprint depues de haber pasodo la regla de oro que es **Definicion de terminado** o `definition of done (DOD) `
+Aqui se definen 3 características : 
 
+1.  Usable
+        Se refiere a que el producto tiene que estar con la calidad de terminado como si estuviera en lanzamiento. 
+2. Aditivo
+      Se refiere a que el resultado no debe ser aislado y debe ser escalable osea que los incrementos siguientes se deben poder agregar con los incrementos anteriores. 
+3. Verificable
+     Que incremento debe estar probado de que cumple con lo requerimientos o criterios de aceptación del usuario. 
 ## Equipo de scrum : 
 
 Product owner :  el dueño del producto
@@ -102,7 +114,7 @@ Es algo mu general o mu grande
 Tipo de funcionalidades que tendra o que tipos tendra la epica
 ## story
 
-Es lo que tiene que hacer pero explicado de manera detallado de lo que se hizo 
+Es lo que tiene que hacer pero explicado de manera detallado de lo que se hizo, debe ser entendible para todas las personas, con un lenguaje no tan especifico. 
 
 ## historias de usuarios 
 

@@ -5,6 +5,7 @@
 # Dolor del tendon 
 1/10
 
+Maximo en arrancada basica 45 rojo + 10 negro lbs barra 20kg
 # febrero hasta 15 marzo
 
 Tren superior 
@@ -45,24 +46,32 @@ Jumping day
 6 o 7 saltos con alta intensidad 100%
 
 
+
 # 16 de marzo hasta 17 abril
 
 **tren superior **
 
-Laterales con mancuernas. 4 x 12 reps 5kg
+Laterales con mancuernas. 4 x 11 reps 6kg
 
-Dominadas pronos no llegar al fallo
+Dominadas pronos 4x9 reps apoyo 25 lbs
 
-Face pull en polea  2x9
+
+Press banca en maquina 35 lbs 11 reps
+
+Press triceps en maquina.    90 lbs 12 reps
+
+Curl biceps 15 lbs 12 sw2
 
 
 
 **tren inferior **
 
-Arrancada básica 45 lbs disco rojo  3x8 con barra de 20kg 
+Arrancada básica 45 lbs disco rojo por lado  3x8 con barra de 20kg 
 
-Peso muerto rumanl 3x9 reps. 35 lbs por lado disco colores barra 20kg
 
-Hacka lineae 2 x 8 25 lbs
+Hip trust en barra si es posible.  4 x 9 25 lbs por lado barra 15kg
 
-Im here para gemelos en barra 3x 12 reps.  35 + 10 lbs por lado disco colores barra 20kg
+Hacka lineae 3 x 9 25 lbs por lado 
+
+Seated calf raises  4 x 10 15 negros lbs por lados
+

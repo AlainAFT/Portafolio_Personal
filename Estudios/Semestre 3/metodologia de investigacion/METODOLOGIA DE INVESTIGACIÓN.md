@@ -59,7 +59,7 @@ Una guia sobre como hacer una investigación o cumplirla.
 
 Redactar con un verbo, debe responder a la formulacion del problema
 
-# Objetivos específicos 
+## Objetivos específicos 
 
 Son la guia para poder cumplir nuestro o jetivo general. 
 
@@ -70,7 +70,22 @@ Los objetivos específicos deben ser medibles, simples de entender, no explicado
 Todos los objetivos específicos deben apuntar al objetivo general. 
 
 
+---
+
 1. Idetificar que problemas surgen en los jóvenes que tienen poca regulación parental en el telofono. 
 2. Comprender porque esos problemas surgen y como afectan al estudiante 
 3. Contrastar el comportamiento actual de los estudiantes con años anteriores. 
 4. Demostrar la relación entre poca regulación del telefono y la poca capacidad de los jovenes de estar tranquilos. 
+
+---
+
+
+# Marco Teórico 
+ **definicion**
+
+  **Mendeley**
+  **citas**
+  **figuras**
+
+**diagramas o mapas conceptuales**
+  
